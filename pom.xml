@@ -15,7 +15,7 @@
 				<configuration>
 
 					<suiteXmlFiles>
-						<suiteXmlFile>FBLoginTC001.xml</suiteXmlFile>
+						<suiteXmlFile>JenkinsTest1.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
 				</configuration>
