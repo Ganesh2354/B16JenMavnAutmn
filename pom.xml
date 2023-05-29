@@ -15,7 +15,7 @@
 				<configuration>
 
 					<suiteXmlFiles>
-						<suiteXmlFile>TC002.xml</suiteXmlFile>
+						<suiteXmlFile>FB_MasterSuite.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
 				</configuration>
