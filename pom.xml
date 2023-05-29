@@ -6,8 +6,6 @@
 	<artifactId>B16E_Framework</artifactId>
 	<build>
 		<plugins>
-
-
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
@@ -15,7 +13,7 @@
 				<configuration>
 
 					<suiteXmlFiles>
-						<suiteXmlFile>JenkinsTest1.xml</suiteXmlFile>
+						<suiteXmlFile>FB_MasterSuite.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
 				</configuration>
