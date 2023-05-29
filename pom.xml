@@ -15,7 +15,7 @@
 				<configuration>
 
 					<suiteXmlFiles>
-						<suiteXmlFile>JenkinsTest1.xml</suiteXmlFile>
+						<suiteXmlFile>TC002.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
 				</configuration>
