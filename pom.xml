@@ -13,7 +13,7 @@
 				<configuration>
 
 					<suiteXmlFiles>
-						<suiteXmlFile>FB_MasterSuite.xml</suiteXmlFile>
+						<suiteXmlFile>JenkinsTest1.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
 				</configuration>
