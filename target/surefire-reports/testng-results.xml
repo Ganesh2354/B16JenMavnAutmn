@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-29T19:27:41 IST" name="FBSuite" finished-at="2023-05-29T19:27:41 IST" duration-ms="0">
+  <suite started-at="2023-05-30T11:51:06 IST" name="FBSuite" finished-at="2023-05-30T11:51:06 IST" duration-ms="0">
     <groups>
     </groups>
   </suite> <!-- FBSuite -->
-  <suite started-at="2023-05-29T19:26:11 IST" name="Suite" finished-at="2023-05-29T19:27:41 IST" duration-ms="89926">
+  <suite started-at="2023-05-30T11:48:49 IST" name="Suite" finished-at="2023-05-30T11:51:04 IST" duration-ms="135463">
     <groups>
     </groups>
-    <test started-at="2023-05-29T19:26:11 IST" name="ChromeTest" finished-at="2023-05-29T19:27:08 IST" duration-ms="57099">
+    <test started-at="2023-05-30T11:48:49 IST" name="ChromeTest" finished-at="2023-05-30T11:50:28 IST" duration-ms="99442">
       <class name="com.fb.testcases.TestLoginTC001">
-        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.fb.testcases.TestLoginTC001@4b013c76]" started-at="2023-05-29T19:26:11 IST" name="openBrowser" finished-at="2023-05-29T19:26:58 IST" duration-ms="47509" status="PASS">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.fb.testcases.TestLoginTC001@4b013c76]" started-at="2023-05-30T11:48:49 IST" name="openBrowser" finished-at="2023-05-30T11:50:08 IST" duration-ms="79353" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,19 +22,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="testLoginFB()[pri:0, instance:com.fb.testcases.TestLoginTC001@4b013c76]" started-at="2023-05-29T19:26:59 IST" name="testLoginFB" finished-at="2023-05-29T19:27:06 IST" duration-ms="7864" status="PASS">
+        <test-method signature="testLoginFB()[pri:0, instance:com.fb.testcases.TestLoginTC001@4b013c76]" started-at="2023-05-30T11:50:08 IST" name="testLoginFB" finished-at="2023-05-30T11:50:19 IST" duration-ms="10933" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginFB -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.fb.testcases.TestLoginTC001@4b013c76]" started-at="2023-05-29T19:27:06 IST" name="closeBrowser" finished-at="2023-05-29T19:27:08 IST" duration-ms="1533" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.fb.testcases.TestLoginTC001@4b013c76]" started-at="2023-05-30T11:50:19 IST" name="closeBrowser" finished-at="2023-05-30T11:50:28 IST" duration-ms="8982" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.fb.testcases.TestLoginTC001 -->
     </test> <!-- ChromeTest -->
-    <test started-at="2023-05-29T19:27:09 IST" name="EdgeTest" finished-at="2023-05-29T19:27:41 IST" duration-ms="31564">
+    <test started-at="2023-05-30T11:50:30 IST" name="EdgeTest" finished-at="2023-05-30T11:51:04 IST" duration-ms="33940">
       <class name="com.fb.testcases.TestLoginTC001">
-        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.fb.testcases.TestLoginTC001@268f106e]" started-at="2023-05-29T19:27:09 IST" name="openBrowser" finished-at="2023-05-29T19:27:31 IST" duration-ms="21956" status="PASS">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.fb.testcases.TestLoginTC001@268f106e]" started-at="2023-05-30T11:50:30 IST" name="openBrowser" finished-at="2023-05-30T11:50:54 IST" duration-ms="23375" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -45,23 +45,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="testLoginFB()[pri:0, instance:com.fb.testcases.TestLoginTC001@268f106e]" started-at="2023-05-29T19:27:31 IST" name="testLoginFB" finished-at="2023-05-29T19:27:40 IST" duration-ms="8533" status="PASS">
+        <test-method signature="testLoginFB()[pri:0, instance:com.fb.testcases.TestLoginTC001@268f106e]" started-at="2023-05-30T11:50:54 IST" name="testLoginFB" finished-at="2023-05-30T11:51:02 IST" duration-ms="8163" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginFB -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.fb.testcases.TestLoginTC001@268f106e]" started-at="2023-05-29T19:27:40 IST" name="closeBrowser" finished-at="2023-05-29T19:27:41 IST" duration-ms="1072" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.fb.testcases.TestLoginTC001@268f106e]" started-at="2023-05-30T11:51:02 IST" name="closeBrowser" finished-at="2023-05-30T11:51:04 IST" duration-ms="2400" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.fb.testcases.TestLoginTC001 -->
     </test> <!-- EdgeTest -->
   </suite> <!-- Suite -->
-  <suite started-at="2023-05-29T19:27:41 IST" name="Suite (0)" finished-at="2023-05-29T19:27:41 IST" duration-ms="3">
+  <suite started-at="2023-05-30T11:51:05 IST" name="Suite (0)" finished-at="2023-05-30T11:51:05 IST" duration-ms="6">
     <groups>
     </groups>
-    <test started-at="2023-05-29T19:27:41 IST" name="Test" finished-at="2023-05-29T19:27:41 IST" duration-ms="3">
+    <test started-at="2023-05-30T11:51:05 IST" name="Test" finished-at="2023-05-30T11:51:05 IST" duration-ms="6">
       <class name="com.fb.testcases.TestFBTC002">
-        <test-method signature="testfbtest()[pri:0, instance:com.fb.testcases.TestFBTC002@6440112d]" started-at="2023-05-29T19:27:41 IST" name="testfbtest" finished-at="2023-05-29T19:27:41 IST" duration-ms="1" status="PASS">
+        <test-method signature="testfbtest()[pri:0, instance:com.fb.testcases.TestFBTC002@6440112d]" started-at="2023-05-30T11:51:05 IST" name="testfbtest" finished-at="2023-05-30T11:51:05 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testfbtest -->

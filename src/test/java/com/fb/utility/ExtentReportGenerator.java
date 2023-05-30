@@ -10,7 +10,7 @@ public class ExtentReportGenerator {
 	public static ExtentReports generateReport()
 	{
 
-		String path="C:\\Users\\Ganesh Dandekar\\eclipse-workspace\\B16E_Framework\\Test_Reports\\LoginFB\\JenkinsRun\\JenkinsIndex1.html";
+		String path="C:\\Users\\Ganesh Dandekar\\eclipse-workspace\\B16E_Framework\\Test_Reports\\LoginFB\\JenkinsRun\\JenkinsIndexLocalHost.html";
 		ExtentSparkReporter report=new ExtentSparkReporter(path);
 		report.config().setDocumentTitle("Facebook WebApplication Framework");
 		report.config().setReportName("LoginFBTC001");
