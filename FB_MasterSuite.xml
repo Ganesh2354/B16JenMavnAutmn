@@ -5,7 +5,6 @@
 <listener class-name="com.fb.utility.Listeners"></listener>
 </listeners>
 <suite-files>
-<suite-file path="C:\Users\Ganesh Dandekar\eclipse-workspace\B16E_Framework\FBLoginTC001.xml"/>
 <suite-file path="C:\Users\Ganesh Dandekar\eclipse-workspace\B16E_Framework\TC002.xml"/>
 </suite-files>
 </suite> <!-- FBSuite -->
