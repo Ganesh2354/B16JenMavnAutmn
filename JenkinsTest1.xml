@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.fb.testcases.JenkinsSimpleTestCase"/>
+      <class name="com.fb.testcases.TestLoginTC001"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
